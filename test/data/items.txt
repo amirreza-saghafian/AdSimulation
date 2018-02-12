@@ -1,0 +1,7 @@
+tennis_shoes  Nike  100.0
+ball Adidas  35.0
+laptop  Apple 3000.0
+sofa  La_Z_Boy  1000.0
+TV  Sony  3500.0
+Milk  Horizon  5.0
+DanCong  Phoenix  25.0

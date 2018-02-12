@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AdSimulation"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AdSimulation">
+				<Option output="/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/AdSimulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/saghafian/Documents/CLionProjects/AdSimulation"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 AdSimulation"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AdSimulation/fast">
+				<Option output="/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/AdSimulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/saghafian/Documents/CLionProjects/AdSimulation"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 AdSimulation/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/saghafian/Documents/CLionProjects/AdSimulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/CMakeLists.txt">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/main.cpp">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/action/action_strategy.h">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/action/text_action_strategy.cc">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/action/text_action_strategy.h">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/analysis/user_analysis.cc">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/analysis/user_analysis.h">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/common/ad.h">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/common/ad_with_action.cc">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/common/ad_with_action.h">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/common/item.cc">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/common/item.h">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/common/user.cc">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/common/user.h">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/container/lru_cache.h">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/tool/load_data.cc">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/src/tool/load_data.h">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/test/test_items.cc">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/test/test_items.h">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/test/test_string_int.cc">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/test/test_string_int.h">
+			<Option target="AdSimulation"/>
+		</Unit>
+		<Unit filename="/Users/saghafian/Documents/CLionProjects/AdSimulation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
