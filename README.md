@@ -1,4 +1,7 @@
 # AdSimulation
+AdSimulation simulates sending ads to users and keeps track of the information. 
+In the user class, it stores a vector of purchased items, and cache of sent ads and clicked ads among other things. 
+A container is designed using least recently used (LRU) policy for cache evictions. 
 
 Libraries:
 ----------
